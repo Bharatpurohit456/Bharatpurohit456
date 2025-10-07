@@ -1,4 +1,3 @@
-<!-- 🌟 Designed with ❤️ by ChatGPT for Bharat Purohit -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Hey+There!+👋;I'm+Bharat+Purohit!;Welcome+to+my+GitHub+page🚀" alt="Typing Animation" />
@@ -70,5 +69,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bharat-purohit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Bharatpurohit456&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
