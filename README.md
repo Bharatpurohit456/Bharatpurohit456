@@ -67,7 +67,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bharatpurohit456&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
