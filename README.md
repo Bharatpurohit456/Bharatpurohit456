@@ -35,12 +35,12 @@
 ### 🚀 My GitHub Galaxy  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharat-purohit&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Bharat's GitHub Stats" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-purohit&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharatpurohit456&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Bharat's GitHub Stats" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharatpurohit456&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-purohit&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatpurohit456&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
